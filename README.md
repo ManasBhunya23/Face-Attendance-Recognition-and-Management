@@ -114,9 +114,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - SQL for storing student details.
 ```
 
-### Notes:
-- Make sure to replace `https://github.com/your-repo/face-recognition-attendance-system.git` with the actual repository link.
-- The database structure is just an example; adjust according to your requirements.
-- You can modify the troubleshooting section if you encounter specific issues related to your app or environment.
-
-This `README.md` now includes the code blocks for directory structure, installation steps, and usage details for your project.
