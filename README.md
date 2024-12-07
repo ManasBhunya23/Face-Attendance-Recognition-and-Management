@@ -23,8 +23,8 @@ Before running the application, ensure that you have the following installed:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo/face-recognition-attendance-system.git
-cd face-recognition-attendance-system
+git clone https://github.com/your-repo/Face-Attendance-Recognition-and-Management.git
+cd Face-Attendance-Recognition-and-Management
 ```
 
 ### 2. Install the required Python libraries:
