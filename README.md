@@ -87,6 +87,7 @@ CREATE TABLE students (
 ├── attendance.csv           # CSV file to store attendance records
 ├── student_data.db          # SQL database for student details
 └── requirements.txt         # List of dependencies to install
+# add the photos in a folder Face_attendance->Project_images(photos), others are to be kept unser the face_recog... folder
 ```
 
 ## Usage
