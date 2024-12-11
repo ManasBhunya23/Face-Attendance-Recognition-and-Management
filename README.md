@@ -115,3 +115,47 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - SQL for storing student details.
 ```
 
+
+## Project Images
+### Figure 1: System Interface
+<figure>
+  <img src="Snapshot_project/Screenshot 2024-12-10 204002.png" alt="Home Page" width="600">
+  <figcaption>Figure 1: Home Page</figcaption>
+</figure>
+
+### Figure 2: Add the Student Details
+<figure>
+  <img src="Snapshot_project/Screenshot 2024-12-10 204028.png" alt="Student Details" width="600">
+  <figcaption>Figure 2: Student Details</figcaption>
+</figure>
+
+### Figure 3:Added details Successfully 
+<figure>
+  <img src="Snapshot_project/Screenshot 2024-12-10 204053.png" alt="Prompt for Successful data addition" width="600">
+  <figcaption>Figure 3: Data added to Local Database.</figcaption>
+</figure>
+
+### Figure 4: Taking Images
+<figure>
+  <img src="Snapshot_project/Screenshot 2024-12-10 204245.png" alt="Images clicked" width="600">
+  <figcaption>Figure 4: Taking Images after choosing Take Images Button.</figcaption>
+</figure>
+
+### Figure 5: Training!!
+<figure>
+  <img src="Snapshot_project/Screenshot 2024-12-10 204256.png" alt="Train" width="600">
+  <figcaption>Figure 5: Training.</figcaption>
+</figure>
+
+### Figure 6: System in Action
+<figure>
+  <img src="Snapshot_project/Screenshot 2024-12-10 204338.png" alt="System in Action" width="600">
+  <figcaption>Figure 6: System in action with real-time face recognition.</figcaption>
+</figure>
+
+### Figure 7: Display from attendance saved in csv
+<figure>
+  <img src="Snapshot_project/Screenshot 2024-12-10 204318.png" alt="Final Report" width="600">
+  <figcaption>Figure 7: Attendance Display.</figcaption>
+</figure>
+
