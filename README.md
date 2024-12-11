@@ -113,7 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - OpenCV for face detection and recognition.
 - Tkinter for building the GUI.
 - SQL for storing student details.
-```
+
 
 
 ## Project Images
