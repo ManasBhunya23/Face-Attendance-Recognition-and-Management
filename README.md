@@ -117,45 +117,33 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 ## Project Images
+
 ### Figure 1: System Interface
-<figure>
-  <img src="Snapshot_project/Screenshot 2024-12-10 204002.png" alt="Home Page" width="600">
-  <figcaption>Figure 1: Home Page</figcaption>
-</figure>
+![Home Page](Snapshot_project/Screenshot%202024-12-10%20204002.png)
+*Figure 1: Home Page*
 
 ### Figure 2: Add the Student Details
-<figure>
-  <img src="Snapshot_project/Screenshot 2024-12-10 204028.png" alt="Student Details" width="600">
-  <figcaption>Figure 2: Student Details</figcaption>
-</figure>
+![Student Details](Snapshot_project/Screenshot%202024-12-10%20204028.png)
+*Figure 2: Student Details*
 
-### Figure 3:Added details Successfully 
-<figure>
-  <img src="Snapshot_project/Screenshot 2024-12-10 204053.png" alt="Prompt for Successful data addition" width="600">
-  <figcaption>Figure 3: Data added to Local Database.</figcaption>
-</figure>
+### Figure 3: Added Details Successfully
+![Prompt for Successful Data Addition](Snapshot_project/Screenshot%202024-12-10%20204053.png)
+*Figure 3: Data added to Local Database.*
 
 ### Figure 4: Taking Images
-<figure>
-  <img src="Snapshot_project/Screenshot 2024-12-10 204245.png" alt="Images clicked" width="600">
-  <figcaption>Figure 4: Taking Images after choosing Take Images Button.</figcaption>
-</figure>
+![Images Clicked](Snapshot_project/Screenshot%202024-12-10%20204245.png)
+*Figure 4: Taking Images after choosing Take Images Button.*
 
 ### Figure 5: Training!!
-<figure>
-  <img src="Snapshot_project/Screenshot 2024-12-10 204256.png" alt="Train" width="600">
-  <figcaption>Figure 5: Training.</figcaption>
-</figure>
+![Train](Snapshot_project/Screenshot%202024-12-10%20204256.png)
+*Figure 5: Training.*
 
 ### Figure 6: System in Action
-<figure>
-  <img src="Snapshot_project/Screenshot 2024-12-10 204338.png" alt="System in Action" width="600">
-  <figcaption>Figure 6: System in action with real-time face recognition.</figcaption>
-</figure>
+![System in Action](Snapshot_project/Screenshot%202024-12-10%20204338.png)
+*Figure 6: System in action with real-time face recognition.*
 
-### Figure 7: Display from attendance saved in csv
-<figure>
-  <img src="Snapshot_project/Screenshot 2024-12-10 204318.png" alt="Final Report" width="600">
-  <figcaption>Figure 7: Attendance Display.</figcaption>
-</figure>
+### Figure 7: Display from Attendance Saved in CSV
+![Attendance Display](Snapshot_project/Screenshot%202024-12-10%20204318.png)
+*Figure 7: Attendance Display.*
+
 
